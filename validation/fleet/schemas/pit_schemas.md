@@ -19,7 +19,7 @@ TestGitRepoDeployment
 
 ### Example test case
 
-This is an example description highlighting that you can include whatever you want in this raw text. It should be a fairly short description though and/or the associated automated test case.
+This is an example description highlighting that you can include whatever you want in this raw text. It should be a fairly short description though and/or the associated automated test case. Edit for the action to run.
 
 | Step Number | Action               | Data         | Expected Result                |
 | ----------- | -------------------- | ------------ | ------------------------------ |
